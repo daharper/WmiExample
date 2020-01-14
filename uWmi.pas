@@ -37,7 +37,7 @@ type
 
 implementation
 
-{ TWMIEnumerator }
+{ TWmi }
 
 {------------------------------------------------------------------------------------------------------------}
 class constructor TWmi.Create;
